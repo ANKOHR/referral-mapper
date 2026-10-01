@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "referral-mapper"
+version = "0.1.0"
+description = "Compute explicit possible warm paths from local inputs"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+rm = "referral_mapper.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["referral_mapper*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

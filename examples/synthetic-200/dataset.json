@@ -1,0 +1,1307 @@
+{
+  "as_of": "2026-09-30",
+  "origin": "synthetic_fixture",
+  "records": [
+    {
+      "id": "p00",
+      "kind": "person",
+      "known": true,
+      "name": "Synthetic Person 00"
+    },
+    {
+      "id": "p01",
+      "kind": "person",
+      "known": true,
+      "name": "Synthetic Person 01"
+    },
+    {
+      "id": "p02",
+      "kind": "person",
+      "known": true,
+      "name": "Synthetic Person 02"
+    },
+    {
+      "id": "p03",
+      "kind": "person",
+      "known": true,
+      "name": "Synthetic Person 03"
+    },
+    {
+      "id": "p04",
+      "kind": "person",
+      "known": true,
+      "name": "Synthetic Person 04"
+    },
+    {
+      "id": "p05",
+      "kind": "person",
+      "known": true,
+      "name": "Synthetic Person 05"
+    },
+    {
+      "id": "p06",
+      "kind": "person",
+      "known": true,
+      "name": "Synthetic Person 06"
+    },
+    {
+      "id": "p07",
+      "kind": "person",
+      "known": true,
+      "name": "Synthetic Person 07"
+    },
+    {
+      "id": "p08",
+      "kind": "person",
+      "known": true,
+      "name": "Synthetic Person 08"
+    },
+    {
+      "id": "p09",
+      "kind": "person",
+      "known": true,
+      "name": "Synthetic Person 09"
+    },
+    {
+      "id": "p10",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 10"
+    },
+    {
+      "id": "p11",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 11"
+    },
+    {
+      "id": "p12",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 12"
+    },
+    {
+      "id": "p13",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 13"
+    },
+    {
+      "id": "p14",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 14"
+    },
+    {
+      "id": "p15",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 15"
+    },
+    {
+      "id": "p16",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 16"
+    },
+    {
+      "id": "p17",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 17"
+    },
+    {
+      "id": "p18",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 18"
+    },
+    {
+      "id": "p19",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 19"
+    },
+    {
+      "id": "p20",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 20"
+    },
+    {
+      "id": "p21",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 21"
+    },
+    {
+      "id": "p22",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 22"
+    },
+    {
+      "id": "p23",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 23"
+    },
+    {
+      "id": "p24",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 24"
+    },
+    {
+      "id": "p25",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 25"
+    },
+    {
+      "id": "p26",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 26"
+    },
+    {
+      "id": "p27",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 27"
+    },
+    {
+      "id": "p28",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 28"
+    },
+    {
+      "id": "p29",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 29"
+    },
+    {
+      "id": "p30",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 30"
+    },
+    {
+      "id": "p31",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 31"
+    },
+    {
+      "id": "p32",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 32"
+    },
+    {
+      "id": "p33",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 33"
+    },
+    {
+      "id": "p34",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 34"
+    },
+    {
+      "id": "p35",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 35"
+    },
+    {
+      "id": "p36",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 36"
+    },
+    {
+      "id": "p37",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 37"
+    },
+    {
+      "id": "p38",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 38"
+    },
+    {
+      "id": "p39",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Person 39"
+    },
+    {
+      "id": "o00",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 00",
+      "target": true
+    },
+    {
+      "id": "o01",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 01",
+      "target": true
+    },
+    {
+      "id": "o02",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 02",
+      "target": true
+    },
+    {
+      "id": "o03",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 03",
+      "target": true
+    },
+    {
+      "id": "o04",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 04",
+      "target": true
+    },
+    {
+      "id": "o05",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 05",
+      "target": true
+    },
+    {
+      "id": "o06",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 06",
+      "target": true
+    },
+    {
+      "id": "o07",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 07",
+      "target": true
+    },
+    {
+      "id": "o08",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 08",
+      "target": true
+    },
+    {
+      "id": "o09",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 09",
+      "target": true
+    },
+    {
+      "id": "o10",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 10",
+      "target": true
+    },
+    {
+      "id": "o11",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 11",
+      "target": true
+    },
+    {
+      "id": "o12",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 12",
+      "target": false
+    },
+    {
+      "id": "o13",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 13",
+      "target": false
+    },
+    {
+      "id": "o14",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 14",
+      "target": false
+    },
+    {
+      "id": "o15",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 15",
+      "target": false
+    },
+    {
+      "id": "o16",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 16",
+      "target": false
+    },
+    {
+      "id": "o17",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 17",
+      "target": false
+    },
+    {
+      "id": "o18",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 18",
+      "target": false
+    },
+    {
+      "id": "o19",
+      "kind": "organisation",
+      "name": "Synthetic Organisation 19",
+      "target": false
+    },
+    {
+      "id": "a000",
+      "kind": "affiliation",
+      "organisation_id": "o00",
+      "person_id": "p00",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a001",
+      "kind": "affiliation",
+      "organisation_id": "o01",
+      "person_id": "p01",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a002",
+      "kind": "affiliation",
+      "organisation_id": "o02",
+      "person_id": "p02",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a003",
+      "kind": "affiliation",
+      "organisation_id": "o03",
+      "person_id": "p03",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a004",
+      "kind": "affiliation",
+      "organisation_id": "o04",
+      "person_id": "p04",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a005",
+      "kind": "affiliation",
+      "organisation_id": "o05",
+      "person_id": "p05",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a006",
+      "kind": "affiliation",
+      "organisation_id": "o06",
+      "person_id": "p06",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a007",
+      "kind": "affiliation",
+      "organisation_id": "o07",
+      "person_id": "p07",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a008",
+      "kind": "affiliation",
+      "organisation_id": "o08",
+      "person_id": "p08",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a009",
+      "kind": "affiliation",
+      "organisation_id": "o09",
+      "person_id": "p09",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a010",
+      "kind": "affiliation",
+      "organisation_id": "o00",
+      "person_id": "p10",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a011",
+      "kind": "affiliation",
+      "organisation_id": "o01",
+      "person_id": "p11",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a012",
+      "kind": "affiliation",
+      "organisation_id": "o02",
+      "person_id": "p12",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a013",
+      "kind": "affiliation",
+      "organisation_id": "o03",
+      "person_id": "p13",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a014",
+      "kind": "affiliation",
+      "organisation_id": "o04",
+      "person_id": "p14",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a015",
+      "kind": "affiliation",
+      "organisation_id": "o05",
+      "person_id": "p15",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a016",
+      "kind": "affiliation",
+      "organisation_id": "o06",
+      "person_id": "p16",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a017",
+      "kind": "affiliation",
+      "organisation_id": "o07",
+      "person_id": "p17",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a018",
+      "kind": "affiliation",
+      "organisation_id": "o08",
+      "person_id": "p18",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a019",
+      "kind": "affiliation",
+      "organisation_id": "o09",
+      "person_id": "p19",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a020",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p20",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a021",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p20",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a022",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p20",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a023",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p20",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a024",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p21",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a025",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p21",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a026",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p21",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a027",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p21",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a028",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p22",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a029",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p22",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a030",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p22",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a031",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p22",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a032",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p23",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a033",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p23",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a034",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p23",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a035",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p23",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a036",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p24",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a037",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p24",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a038",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p24",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a039",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p24",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a040",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p25",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a041",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p25",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a042",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p25",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a043",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p25",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a044",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p26",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a045",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p26",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a046",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p26",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a047",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p26",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a048",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p27",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a049",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p27",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a050",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p27",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a051",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p27",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a052",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p28",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a053",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p28",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a054",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p28",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a055",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p28",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a056",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p29",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a057",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p29",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a058",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p29",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a059",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p29",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a060",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p30",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a061",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p30",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a062",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p30",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a063",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p30",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a064",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p31",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a065",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p31",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a066",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p31",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a067",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p31",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a068",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p32",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a069",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p32",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a070",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p32",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a071",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p32",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a072",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p33",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a073",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p33",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a074",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p33",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a075",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p33",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a076",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p34",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a077",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p34",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a078",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p34",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a079",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p34",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a080",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p35",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a081",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p35",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a082",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p35",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a083",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p35",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a084",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p36",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a085",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p36",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a086",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p36",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a087",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p36",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a088",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p37",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a089",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p37",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a090",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p37",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a091",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p37",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a092",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p38",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a093",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p38",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a094",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p38",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a095",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p38",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a096",
+      "kind": "affiliation",
+      "organisation_id": "o12",
+      "person_id": "p39",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a097",
+      "kind": "affiliation",
+      "organisation_id": "o13",
+      "person_id": "p39",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a098",
+      "kind": "affiliation",
+      "organisation_id": "o14",
+      "person_id": "p39",
+      "role": "Synthetic member"
+    },
+    {
+      "id": "a099",
+      "kind": "affiliation",
+      "organisation_id": "o15",
+      "person_id": "p39",
+      "role": "Synthetic member"
+    },
+    {
+      "from_id": "p00",
+      "id": "c000",
+      "kind": "connection",
+      "to_id": "p10"
+    },
+    {
+      "from_id": "p01",
+      "id": "c001",
+      "kind": "connection",
+      "to_id": "p11"
+    },
+    {
+      "from_id": "p02",
+      "id": "c002",
+      "kind": "connection",
+      "to_id": "p12"
+    },
+    {
+      "from_id": "p03",
+      "id": "c003",
+      "kind": "connection",
+      "to_id": "p13"
+    },
+    {
+      "from_id": "p04",
+      "id": "c004",
+      "kind": "connection",
+      "to_id": "p14"
+    },
+    {
+      "from_id": "p05",
+      "id": "c005",
+      "kind": "connection",
+      "to_id": "p15"
+    },
+    {
+      "from_id": "p06",
+      "id": "c006",
+      "kind": "connection",
+      "to_id": "p16"
+    },
+    {
+      "from_id": "p07",
+      "id": "c007",
+      "kind": "connection",
+      "to_id": "p17"
+    },
+    {
+      "from_id": "p08",
+      "id": "c008",
+      "kind": "connection",
+      "to_id": "p18"
+    },
+    {
+      "from_id": "p09",
+      "id": "c009",
+      "kind": "connection",
+      "to_id": "p19"
+    },
+    {
+      "from_id": "p20",
+      "id": "c010",
+      "kind": "connection",
+      "to_id": "p21"
+    },
+    {
+      "from_id": "p21",
+      "id": "c011",
+      "kind": "connection",
+      "to_id": "p22"
+    },
+    {
+      "from_id": "p22",
+      "id": "c012",
+      "kind": "connection",
+      "to_id": "p23"
+    },
+    {
+      "from_id": "p23",
+      "id": "c013",
+      "kind": "connection",
+      "to_id": "p24"
+    },
+    {
+      "from_id": "p24",
+      "id": "c014",
+      "kind": "connection",
+      "to_id": "p25"
+    },
+    {
+      "from_id": "p25",
+      "id": "c015",
+      "kind": "connection",
+      "to_id": "p26"
+    },
+    {
+      "from_id": "p26",
+      "id": "c016",
+      "kind": "connection",
+      "to_id": "p27"
+    },
+    {
+      "from_id": "p27",
+      "id": "c017",
+      "kind": "connection",
+      "to_id": "p28"
+    },
+    {
+      "from_id": "p28",
+      "id": "c018",
+      "kind": "connection",
+      "to_id": "p29"
+    },
+    {
+      "from_id": "p29",
+      "id": "c019",
+      "kind": "connection",
+      "to_id": "p30"
+    },
+    {
+      "from_id": "p30",
+      "id": "c020",
+      "kind": "connection",
+      "to_id": "p31"
+    },
+    {
+      "from_id": "p31",
+      "id": "c021",
+      "kind": "connection",
+      "to_id": "p32"
+    },
+    {
+      "from_id": "p32",
+      "id": "c022",
+      "kind": "connection",
+      "to_id": "p33"
+    },
+    {
+      "from_id": "p33",
+      "id": "c023",
+      "kind": "connection",
+      "to_id": "p34"
+    },
+    {
+      "from_id": "p34",
+      "id": "c024",
+      "kind": "connection",
+      "to_id": "p35"
+    },
+    {
+      "from_id": "p35",
+      "id": "c025",
+      "kind": "connection",
+      "to_id": "p36"
+    },
+    {
+      "from_id": "p36",
+      "id": "c026",
+      "kind": "connection",
+      "to_id": "p37"
+    },
+    {
+      "from_id": "p37",
+      "id": "c027",
+      "kind": "connection",
+      "to_id": "p38"
+    },
+    {
+      "from_id": "p38",
+      "id": "c028",
+      "kind": "connection",
+      "to_id": "p39"
+    },
+    {
+      "from_id": "p39",
+      "id": "c029",
+      "kind": "connection",
+      "to_id": "p20"
+    },
+    {
+      "from_id": "p20",
+      "id": "c030",
+      "kind": "connection",
+      "to_id": "p21"
+    },
+    {
+      "from_id": "p21",
+      "id": "c031",
+      "kind": "connection",
+      "to_id": "p22"
+    },
+    {
+      "from_id": "p22",
+      "id": "c032",
+      "kind": "connection",
+      "to_id": "p23"
+    },
+    {
+      "from_id": "p23",
+      "id": "c033",
+      "kind": "connection",
+      "to_id": "p24"
+    },
+    {
+      "from_id": "p24",
+      "id": "c034",
+      "kind": "connection",
+      "to_id": "p25"
+    },
+    {
+      "from_id": "p25",
+      "id": "c035",
+      "kind": "connection",
+      "to_id": "p26"
+    },
+    {
+      "from_id": "p26",
+      "id": "c036",
+      "kind": "connection",
+      "to_id": "p27"
+    },
+    {
+      "from_id": "p27",
+      "id": "c037",
+      "kind": "connection",
+      "to_id": "p28"
+    },
+    {
+      "from_id": "p28",
+      "id": "c038",
+      "kind": "connection",
+      "to_id": "p29"
+    },
+    {
+      "from_id": "p29",
+      "id": "c039",
+      "kind": "connection",
+      "to_id": "p30"
+    }
+  ],
+  "synthetic": true
+}

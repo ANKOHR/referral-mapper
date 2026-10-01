@@ -1,0 +1,24 @@
+{
+  "acceptance_threshold_seconds": 5,
+  "business_outcomes": "Unmeasured. Final verdict pending two-week real-use evidence.",
+  "data_provenance": "Local synthetic fixture test only. No real-use trial or time-savings baseline.",
+  "demo_commands": [
+    "python -m referral_mapper.cli fixtures --out demo",
+    "python -m referral_mapper.cli run --input demo",
+    "python -m referral_mapper.cli report --format md"
+  ],
+  "environment": {
+    "execution": "CPU only; local files",
+    "platform": "win32",
+    "python": "3.12.10"
+  },
+  "fixture_counts_match_independent_expectations": true,
+  "installed_entrypoint_checked": true,
+  "measured_full_demo_wall_seconds": 0.7025346000009449,
+  "measured_installed_rm_full_demo_wall_seconds": 0.7811461000092095,
+  "measured_pytest_reported_seconds": 2.02,
+  "measurement_date": "2026-10-01",
+  "synthetic": true,
+  "test_command": "python -m pytest -q",
+  "tests_passed": 43
+}

@@ -1,0 +1,154 @@
+{
+  "counts": {
+    "affiliation_records": 100,
+    "connection_records": 40,
+    "direct_paths": 10,
+    "known_contacts": 10,
+    "one_intermediary_paths": 10,
+    "organisation_records": 20,
+    "paths": 20,
+    "person_records": 40,
+    "reachable_targets": 10,
+    "records": 200,
+    "target_organisations": 12,
+    "unreachable_targets": 2
+  },
+  "explanation": "40 people + 20 organisations + 100 affiliations + 40 connections = 200. Ten known people have one direct target affiliation each. Ten directed introductions reach ten other target affiliates. Targets o10 and o11 have no affiliations. Other affiliations and connections cannot start from a known person.",
+  "path_keys": [
+    [
+      "o00",
+      [
+        "p00"
+      ]
+    ],
+    [
+      "o01",
+      [
+        "p01"
+      ]
+    ],
+    [
+      "o02",
+      [
+        "p02"
+      ]
+    ],
+    [
+      "o03",
+      [
+        "p03"
+      ]
+    ],
+    [
+      "o04",
+      [
+        "p04"
+      ]
+    ],
+    [
+      "o05",
+      [
+        "p05"
+      ]
+    ],
+    [
+      "o06",
+      [
+        "p06"
+      ]
+    ],
+    [
+      "o07",
+      [
+        "p07"
+      ]
+    ],
+    [
+      "o08",
+      [
+        "p08"
+      ]
+    ],
+    [
+      "o09",
+      [
+        "p09"
+      ]
+    ],
+    [
+      "o00",
+      [
+        "p00",
+        "p10"
+      ]
+    ],
+    [
+      "o01",
+      [
+        "p01",
+        "p11"
+      ]
+    ],
+    [
+      "o02",
+      [
+        "p02",
+        "p12"
+      ]
+    ],
+    [
+      "o03",
+      [
+        "p03",
+        "p13"
+      ]
+    ],
+    [
+      "o04",
+      [
+        "p04",
+        "p14"
+      ]
+    ],
+    [
+      "o05",
+      [
+        "p05",
+        "p15"
+      ]
+    ],
+    [
+      "o06",
+      [
+        "p06",
+        "p16"
+      ]
+    ],
+    [
+      "o07",
+      [
+        "p07",
+        "p17"
+      ]
+    ],
+    [
+      "o08",
+      [
+        "p08",
+        "p18"
+      ]
+    ],
+    [
+      "o09",
+      [
+        "p09",
+        "p19"
+      ]
+    ]
+  ],
+  "synthetic": true,
+  "unreachable_organisation_ids": [
+    "o10",
+    "o11"
+  ]
+}

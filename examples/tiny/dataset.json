@@ -1,0 +1,38 @@
+{
+  "as_of": "2026-09-30",
+  "origin": "synthetic_fixture",
+  "records": [
+    {
+      "id": "henry-contact",
+      "kind": "person",
+      "known": true,
+      "name": "Synthetic Contact"
+    },
+    {
+      "id": "colleague",
+      "kind": "person",
+      "known": false,
+      "name": "Synthetic Colleague"
+    },
+    {
+      "id": "target",
+      "kind": "organisation",
+      "name": "Synthetic Target",
+      "target": true
+    },
+    {
+      "from_id": "henry-contact",
+      "id": "intro",
+      "kind": "connection",
+      "to_id": "colleague"
+    },
+    {
+      "id": "job",
+      "kind": "affiliation",
+      "organisation_id": "target",
+      "person_id": "colleague",
+      "role": "Synthetic engineer"
+    }
+  ],
+  "synthetic": true
+}
