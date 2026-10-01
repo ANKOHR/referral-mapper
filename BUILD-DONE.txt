@@ -1,0 +1,10 @@
+Referral Mapper build complete
+
+Tests: 43 passed (python -m pytest -q).
+Local implementation commit: edfa210eac8ed52e4f31b17cc785549a797a5cc8
+Branch: main
+Measured installed rm.exe end-to-end synthetic demo: 0.781146 seconds, under 5 seconds.
+
+Built a CPU-only, local-file Python CLI with fixtures, run, report, validate and paths subcommands. Pure domain functions validate explicit directed contacts and affiliations and enumerate direct or one-intermediary paths to target organisations. The labelled 200-record fixture exactly matches independent hand-computed ground truth: 20 paths, 10 reachable targets, 2 unreachable targets, no extra or missing planted paths. Included a five-record example, deterministic JSON and Markdown reports with provenance, atomic report writes, named errors, adversarial tests, complete input and CLI documentation, lessons, measured build evidence and a two-week real-use trial template. Real-use accuracy and savings are unmeasured, and the final project verdict awaits that evidence window. Nothing was published.
+
+This file is committed in a subsequent evidence commit; the hash above identifies the implementation and tests without a self-referential commit hash.
